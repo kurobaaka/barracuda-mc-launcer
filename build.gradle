@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+    id 'application' // Для создания исполняемого JAR
+}
+
+group = 'com.waidelos'
+version = '1.0.0'
+sourceCompatibility = '17' // Версия Java
+targetCompatibility = '17'
+
+repositories {
+    mavenCentral() // Репозиторий Maven для зависимостей
+}
+
+dependencies {
+    // Пример: добавьте Jackson для работы с JSON
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
+
+    // Другие зависимости...
+}
+
+application {
+    mainClass = 'com.waidelos.launcher.Launcher' // Главный класс
+}
+
+// Сборка "толстого" JAR (со всеми зависимостями)
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Main-Class': application.mainClass
+    }
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    with jar
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
