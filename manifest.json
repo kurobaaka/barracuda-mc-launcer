@@ -1,0 +1,10 @@
+{
+    "Name": "WaidFirstMod",
+    "Author": "Waidelos",
+    "Version": "1.0.0",
+    "Description": "My first mod for Stardew Valley.",
+    "UniqueID": "Waidelos.WaidFirstMod",
+    "UpdateKeys": [],
+    "MinimumApiVersion": "3.0.0",
+    "EntryDll": "WaidFirstMod.dll" 
+}

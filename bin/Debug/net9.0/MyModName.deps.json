@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MyModName/1.0.0": {
+        "dependencies": {
+          "StardewModdingAPI": "4.1.10.0"
+        },
+        "runtime": {
+          "MyModName.dll": {}
+        }
+      },
+      "StardewModdingAPI/4.1.10.0": {
+        "runtime": {
+          "StardewModdingAPI.dll": {
+            "assemblyVersion": "4.1.10.0",
+            "fileVersion": "4.1.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyModName/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StardewModdingAPI/4.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

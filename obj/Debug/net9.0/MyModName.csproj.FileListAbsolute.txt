@@ -1,0 +1,15 @@
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\bin\Debug\net9.0\MyModName.deps.json
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\bin\Debug\net9.0\MyModName.dll
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\bin\Debug\net9.0\MyModName.pdb
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\bin\Debug\net9.0\StardewModdingAPI.dll
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.csproj.AssemblyReference.cache
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.AssemblyInfoInputs.cache
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.AssemblyInfo.cs
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.csproj.CoreCompileInputs.cache
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.sourcelink.json
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.csproj.Up2Date
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.dll
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\refint\MyModName.dll
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\MyModName.pdb
+C:\Users\Waidelos\OneDrive\Документы\code\cs\mc-kt\obj\Debug\net9.0\ref\MyModName.dll
