@@ -7,7 +7,7 @@ namespace WaidFirstMod
     {
         public override void Entry(IModHelper helper)
         {
-            this.Monitor.Log("Марина привет я мод я тебя люблю йоу!", LogLevel.Info);
+            this.Monitor.Log("Марина привет я мод я тебя люблю!", LogLevel.Info);
         }
     }
 }

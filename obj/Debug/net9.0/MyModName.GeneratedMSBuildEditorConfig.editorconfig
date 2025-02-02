@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyModName
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Waidelos\Desktop\zzz\stardew\stardew-mod\
+=======
+build_property.ProjectDir = E:\projects\cs\stardew-mod\
+>>>>>>> a5779d81700ef88945a4656501b48db3051d22b9
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0

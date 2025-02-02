@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\MyModName.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\MyModName.csproj",
         "packagesPath": "C:\\Users\\Waidelos\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\obj\\",
+=======
+    "E:\\projects\\cs\\stardew-mod\\MyModName.csproj": {}
+  },
+  "projects": {
+    "E:\\projects\\cs\\stardew-mod\\MyModName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\cs\\stardew-mod\\MyModName.csproj",
+        "projectName": "MyModName",
+        "projectPath": "E:\\projects\\cs\\stardew-mod\\MyModName.csproj",
+        "packagesPath": "C:\\Users\\Waidelos\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\cs\\stardew-mod\\obj\\",
+>>>>>>> a5779d81700ef88945a4656501b48db3051d22b9
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -42,7 +56,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -65,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "53ED2Qs8Aqg=",
   "success": true,
   "projectFilePath": "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\MyModName.csproj",
+=======
+  "dgSpecHash": "nGOLuTJPzuM=",
+  "success": true,
+  "projectFilePath": "E:\\projects\\cs\\stardew-mod\\MyModName.csproj",
+>>>>>>> a5779d81700ef88945a4656501b48db3051d22b9
   "expectedPackageFiles": [],
   "logs": []
 }
