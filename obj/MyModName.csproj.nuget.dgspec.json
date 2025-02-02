@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\MyModName.csproj": {}
+    "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\MyModName.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\MyModName.csproj": {
+    "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\MyModName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\MyModName.csproj",
+        "projectUniqueName": "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\MyModName.csproj",
         "projectName": "MyModName",
-        "projectPath": "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\MyModName.csproj",
+        "projectPath": "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\MyModName.csproj",
         "packagesPath": "C:\\Users\\Waidelos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\obj\\",
+        "outputPath": "C:\\Users\\Waidelos\\Desktop\\zzz\\stardew\\stardew-mod\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Waidelos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Waidelos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
