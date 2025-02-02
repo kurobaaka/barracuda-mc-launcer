@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\MyModName.csproj",
+      "projectUniqueName": "E:\\projects\\cs\\stardew-mod\\MyModName.csproj",
       "projectName": "MyModName",
-      "projectPath": "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\MyModName.csproj",
+      "projectPath": "E:\\projects\\cs\\stardew-mod\\MyModName.csproj",
       "packagesPath": "C:\\Users\\Waidelos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Waidelos\\OneDrive\\Документы\\code\\cs\\mc-kt\\obj\\",
+      "outputPath": "E:\\projects\\cs\\stardew-mod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Waidelos\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
